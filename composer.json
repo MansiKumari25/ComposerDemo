@@ -2,6 +2,7 @@
     "name": "mansikumari25/composertest",
     "description": "testing composer..",
     "type": "library",
+    "version":"1.0",
     "license": "MIT",
     "prefer-stable": true,
     "authors": [
