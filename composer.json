@@ -1,7 +1,8 @@
 {
-    "name": "mansikumari25/composertest",
+    "name": "mansikumari25/composerdemo",
     "description": "testing composer..",
     "type": "library",
+    "version":"1.0",
     "license": "MIT",
     "prefer-stable": true,
     "authors": [
