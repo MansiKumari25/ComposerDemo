@@ -1,0 +1,20 @@
+{
+    "name": "mansikumari25/composertest",
+    "description": "testing composer..",
+    "type": "library",
+    "license": "MIT",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Mansi Kumari",
+            "email": "mansikumari@cedcoss.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Test\\":"src/"
+        }
+    },
+    "require": {}
+}
