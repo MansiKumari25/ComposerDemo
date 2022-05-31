@@ -11,7 +11,8 @@
             "email": "mansikumari@cedcoss.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "stability": "dev",
     "autoload": {
         "psr-4": {
             "Test\\":"src/"
